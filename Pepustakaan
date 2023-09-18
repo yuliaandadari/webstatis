@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Y2K AESTHETIC INSPIRED.</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-color: bisque;">
+    <nav> 
+        <div class="wrapper">
+            <div class="logo"><a href="">Y2K AESTHETIC INSPIRED.</a> </div>
+            <div class="menu">
+                <ul>
+<li><a href="#Home">Home</a></li>
+<li><a href="#Fashion">Fashion</a></li>
+<li><a href="#Make-Up">Make-Up</a></li>
+<li><a href="#Trend-Setter">Trend-Setter</a></li>
+<li><a href="" class="tbl-biru">Masuk</a></li>
+                </ul>
+            </div>
+        </div> 
+    </nav>
+    <div class="wrapper">
+        <!--untuk Home-->
+        <section id="Home">
+            <img src="images/s33.png" width="700" height="500">
+        <div class="kolom">
+            <p class="deskripsi">What is Y2K?</p>
+            <h2>The History Behind Y2K</h2>
+            <p>Y2K adalah singkatan dari "Year 2000" atau "Year Two Thousand" dalam bahasa Inggris. Awalnya istilah ini merujuk kepada peristiwa yang terjadi saat pergantian tahun dari 1999 ke 2000. Banyak orang khawatir bahwa sistem komputer dan perangkat lunak yang menggunakan notasi dua digit untuk tahun (misalnya, '99' untuk 1999) akan mengalami masalah ketika tahun berganti menjadi '00' pada tahun 2000. Kekhawatiran ini disebut "Bug Y2K" atau "Millennium Bug."</p>
+            <p>Namun di era millennial ini, trend Y2K mengacu pada fenomena mode atau gaya yang terinspirasi oleh mode dan budaya tahun 2000-an. Hal ini menjadi nostalgia untuk estetika, pakaian, musik, dan budaya pop dari akhir tahun 1990-an hingga awal tahun 2000-an..</p>
+            <p><a href=""class="tbl-biru">Pelajari Lebih Lanjut </a></p> 
+        </div>
+    </section>
+
+    <!--untuk Fashion-->
+    <section id="Fashion">
+        <div class="kolom">
+            <p class="deskripsi">Fashion Trend</p>
+            <h2>Y2K Fashion Ideas</h2>
+            <p>1. Celana Low-Rise: Celana dengan pinggang rendah (low-rise pants) yang dipakai di pinggul adalah salah satu tanda khas fashion Y2K. Celana ini seringkali memiliki potongan sempit dan dapat dipadukan dengan atasan pendek.</p>
+            <p>2. Logomania: Pakaian dengan logo merek yang mencolok atau cetakan merek besar memberikan sentuhan elemen desain futuristik dan edgy.</p>
+            <p>3. Plaid Pleated Skirt: Rok motif kotak-kotak berlipat atau yang lebih dikenal sebagai plaid skirt ini terlihat seperti seragam sekolah, tetapi cocok dipasangkan dengan oversized sweater (sweater kebesaran), crop top, atau baby tee. Rok plaid skirt dengan potongan yang pendek dan ketat seringkali dipadukan dengan sepatu bot tinggi, yang akan memberikan kesan feminin.</p>
+            <p><a href="" class="tbl-biru">Pelajari lebih lanjut</a></p>
+        </div>
+       <img src="Images/s22.png" width="700" height="500">
+    </section>
+
+    <!--untuk Make-Up-->
+    </div>
+    <section id="Make-Up">
+        <div class="tengah">
+            <div class="kolom">
+                <p class="deskripsi"> Our Top Make-Up Tutorials</p>
+                <h2>Y2K Make-Up List</h2>
+                </div>
+                <img src="images/s5.jpeg" width="800" height="300">
+            </section>
+
+    <section id="Make-Up">
+            <div class="kolom">
+            <p class="deskripsi"></p>
+            <p>1. Glittery Highlighter: Glitter dan kilau adalah elemen utama dalam tren makeup Y2K. Highlighter yang berkilau digunakan untuk menciptakan tampilan wajah yang segar dan mengkilap.</p>
+            <p>2. Heavy Blush: Blush on tipe liquid, cream, ataupun powder dapat memberikan rona pink yang menawan dan segar.</p>
+            <p>3. Colorful Eye Make-Up: Penggunaan eyeshadow yang cerah dan colorful seperti pink, ungu, dan biru, dapat memberikan kesan cerah dan cocok untuk semua warna kulit.</p>
+        </div>
+        <img src="images/s17.png" width="500" height="300">
+        </div>
+    </section>
+
+    <!--untuk Trend-Setter-->
+    <section id="Trend-Setter">
+        <div class="tengah">
+            <div class="kolom">
+                <p class="deskripsi">Y2K Celebrity Trend-Setter</p>
+                <h2> Trend-Setter</h2>
+            </div>
+
+            <div class="Layanan-list">
+                <div class="kartu-layanan">
+                    <img src="images/s13.png">
+                    <p>Mean Girls</p>
+                </div>
+                <div class="Layanan-list">
+                    <div class="kartu-layanan">
+                        <img src="images/s14.png">
+                        <p>Mean Girls</p>
+                    </div> <div class="Layanan-list">
+                        <div class="kartu-layanan">
+                            <img src="images/s16.jpeg">
+                            <p>Mean Girls</p>
+                        </div>  
+            </div>
+        </div>
+    </section>
+
+    </div>
+</body> 
+</html> 
