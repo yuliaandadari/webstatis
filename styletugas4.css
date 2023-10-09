@@ -10,7 +10,7 @@ body {
     /*background-color: rgb(213, 208, 193);*/
     background-image: url(Images/backgroundkrb.jpg);
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
 }
 h1 {
     color: aqua;
@@ -69,11 +69,11 @@ a {
 d1 img {
     background-color: beige;
     width: 200px;
-    /*border-top-left-radius: 50px;*/
+    border-top-left-radius: 50px;
     border-radius: 100px;
     float: left;
-    /*margin-top: 10px;
-    margin-right: 20px;*/
+    margin-top: 10px;
+    margin-right: 20px;
     margin: 10px 20px 10px 0px;
     padding: 10px;
 }
