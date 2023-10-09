@@ -13,7 +13,7 @@ body {
     background-size: cover;
 }
 h1 {
-    color: aqua;
+    color: rgb(88, 8, 8);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     margin: 40px 30px;
@@ -42,6 +42,8 @@ dt {
     font-family: 'Lucida Sans', 'Lucida Sans Regular'; background-color: rgb (146, 144, 82);
     margin-top: 30px;
     padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
 }
 dd {
     background-color: beige;
